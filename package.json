@@ -10,6 +10,9 @@
     "cors": "2.8.1",
     "express": "^4.17.1"
   },
+  "engines": {
+    "node": "12.7.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mickbird/js-dev-env-demo-api"
